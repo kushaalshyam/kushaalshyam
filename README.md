@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**390 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 169 · 🔴 Hard 5
+**391 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 170 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
@@ -85,8 +85,8 @@ I practice data structures and algorithms regularly.
 - [`Quest1`](https://github.com/kushaalshyam/Quest1) · [updated readme](https://github.com/kushaalshyam/Quest1/commit/eceb9e14b7bbffce67c9e2414c0ae0c9658efa9f) · _38d ago_
 - [`Quest1`](https://github.com/kushaalshyam/Quest1) · [update readme](https://github.com/kushaalshyam/Quest1/commit/f5c293b69836cbbf71f7fbc2b8cdfa422c20fedf) · _38d ago_
 - [`Quest1`](https://github.com/kushaalshyam/Quest1) · [added timestamp display](https://github.com/kushaalshyam/Quest1/commit/6de7e4b9cdbbcb203e3038233927def4eeca1f82) · _38d ago_
-- [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [Merge pull request #1 from kushaalshyam/basic-crud](https://github.com/kushaalshyam/TaskManager/commit/3c22fe1ba45eb89993240d76e47cdadda48dbe66) · _42d ago_
-- [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [created basic crud api](https://github.com/kushaalshyam/TaskManager/commit/2e0709e2471e8a4d204485f358c63bb157287884) · _42d ago_
+- [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [Merge pull request #1 from kushaalshyam/basic-crud](https://github.com/kushaalshyam/TaskManager/commit/3c22fe1ba45eb89993240d76e47cdadda48dbe66) · _43d ago_
+- [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [created basic crud api](https://github.com/kushaalshyam/TaskManager/commit/2e0709e2471e8a4d204485f358c63bb157287884) · _43d ago_
 <!--COMMITS:END-->
 
 ## 📊 GitHub stats
