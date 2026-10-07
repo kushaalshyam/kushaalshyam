@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**391 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 170 · 🔴 Hard 5
+**392 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 171 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
@@ -82,10 +82,10 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [feat: implemented base 62 encoder for url shortener](https://github.com/kushaalshyam/ShortURL/commit/8f19796665f5d5ee68f79980ac1a8324cd117a37) · _3h ago_
+- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [feat: implemented base 62 encoder for url shortener](https://github.com/kushaalshyam/ShortURL/commit/8f19796665f5d5ee68f79980ac1a8324cd117a37) · _10h ago_
 - [`Quest1`](https://github.com/kushaalshyam/Quest1) · [updated readme](https://github.com/kushaalshyam/Quest1/commit/eceb9e14b7bbffce67c9e2414c0ae0c9658efa9f) · _39d ago_
 - [`Quest1`](https://github.com/kushaalshyam/Quest1) · [update readme](https://github.com/kushaalshyam/Quest1/commit/f5c293b69836cbbf71f7fbc2b8cdfa422c20fedf) · _39d ago_
-- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [added timestamp display](https://github.com/kushaalshyam/Quest1/commit/6de7e4b9cdbbcb203e3038233927def4eeca1f82) · _39d ago_
+- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [added timestamp display](https://github.com/kushaalshyam/Quest1/commit/6de7e4b9cdbbcb203e3038233927def4eeca1f82) · _40d ago_
 - [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [Merge pull request #1 from kushaalshyam/basic-crud](https://github.com/kushaalshyam/TaskManager/commit/3c22fe1ba45eb89993240d76e47cdadda48dbe66) · _44d ago_
 <!--COMMITS:END-->
 
