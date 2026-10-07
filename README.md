@@ -82,11 +82,11 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [Added git ignore file](https://github.com/kushaalshyam/CompilerDesignSem7/commit/0ec81d35f7df4de96ab27c7800a645cfcf556cca) · _2m ago_
-- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [uploading assignments 1 to 9](https://github.com/kushaalshyam/CompilerDesignSem7/commit/8783202deff1615eb861cfc48ffa3ea7e6ca810c) · _9m ago_
-- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [Initial commit](https://github.com/kushaalshyam/RayTracer/commit/7bc9ee84ae4b2d997db6d93db9824da6a9bc2d39) · _7h ago_
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [feat: implemented base 62 encoder for url shortener](https://github.com/kushaalshyam/ShortURL/commit/8f19796665f5d5ee68f79980ac1a8324cd117a37) · _18h ago_
-- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [updated readme](https://github.com/kushaalshyam/Quest1/commit/eceb9e14b7bbffce67c9e2414c0ae0c9658efa9f) · _40d ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _3h ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [ran 2 renders, available in the images folder](https://github.com/kushaalshyam/RayTracer/commit/71d7ff66756b13d4705b5a4562a104e86d575ce2) · _3h ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat/chore: implemented my first render + added CMakeLists.txt build …](https://github.com/kushaalshyam/RayTracer/commit/782aa2b9ad33bc558f32193e945bb6687c62ae64) · _3h ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [Added git ignore file](https://github.com/kushaalshyam/CompilerDesignSem7/commit/0ec81d35f7df4de96ab27c7800a645cfcf556cca) · _10h ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [uploading assignments 1 to 9](https://github.com/kushaalshyam/CompilerDesignSem7/commit/8783202deff1615eb861cfc48ffa3ea7e6ca810c) · _10h ago_
 <!--COMMITS:END-->
 
 ## 📊 GitHub stats
