@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**392 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 171 · 🔴 Hard 5
+**393 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 172 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
@@ -82,11 +82,11 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [feat: implemented base 62 encoder for url shortener](https://github.com/kushaalshyam/ShortURL/commit/8f19796665f5d5ee68f79980ac1a8324cd117a37) · _10h ago_
-- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [updated readme](https://github.com/kushaalshyam/Quest1/commit/eceb9e14b7bbffce67c9e2414c0ae0c9658efa9f) · _39d ago_
-- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [update readme](https://github.com/kushaalshyam/Quest1/commit/f5c293b69836cbbf71f7fbc2b8cdfa422c20fedf) · _39d ago_
-- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [added timestamp display](https://github.com/kushaalshyam/Quest1/commit/6de7e4b9cdbbcb203e3038233927def4eeca1f82) · _40d ago_
-- [`TaskManager`](https://github.com/kushaalshyam/TaskManager) · [Merge pull request #1 from kushaalshyam/basic-crud](https://github.com/kushaalshyam/TaskManager/commit/3c22fe1ba45eb89993240d76e47cdadda48dbe66) · _44d ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [Added git ignore file](https://github.com/kushaalshyam/CompilerDesignSem7/commit/0ec81d35f7df4de96ab27c7800a645cfcf556cca) · _2m ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [uploading assignments 1 to 9](https://github.com/kushaalshyam/CompilerDesignSem7/commit/8783202deff1615eb861cfc48ffa3ea7e6ca810c) · _9m ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [Initial commit](https://github.com/kushaalshyam/RayTracer/commit/7bc9ee84ae4b2d997db6d93db9824da6a9bc2d39) · _7h ago_
+- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [feat: implemented base 62 encoder for url shortener](https://github.com/kushaalshyam/ShortURL/commit/8f19796665f5d5ee68f79980ac1a8324cd117a37) · _18h ago_
+- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [updated readme](https://github.com/kushaalshyam/Quest1/commit/eceb9e14b7bbffce67c9e2414c0ae0c9658efa9f) · _40d ago_
 <!--COMMITS:END-->
 
 ## 📊 GitHub stats
