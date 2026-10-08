@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**393 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 172 · 🔴 Hard 5
+**396 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 175 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
@@ -82,11 +82,11 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _3h ago_
-- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [ran 2 renders, available in the images folder](https://github.com/kushaalshyam/RayTracer/commit/71d7ff66756b13d4705b5a4562a104e86d575ce2) · _3h ago_
-- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat/chore: implemented my first render + added CMakeLists.txt build …](https://github.com/kushaalshyam/RayTracer/commit/782aa2b9ad33bc558f32193e945bb6687c62ae64) · _3h ago_
-- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [Added git ignore file](https://github.com/kushaalshyam/CompilerDesignSem7/commit/0ec81d35f7df4de96ab27c7800a645cfcf556cca) · _10h ago_
-- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [uploading assignments 1 to 9](https://github.com/kushaalshyam/CompilerDesignSem7/commit/8783202deff1615eb861cfc48ffa3ea7e6ca810c) · _10h ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _9h ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [ran 2 renders, available in the images folder](https://github.com/kushaalshyam/RayTracer/commit/71d7ff66756b13d4705b5a4562a104e86d575ce2) · _9h ago_
+- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat/chore: implemented my first render + added CMakeLists.txt build …](https://github.com/kushaalshyam/RayTracer/commit/782aa2b9ad33bc558f32193e945bb6687c62ae64) · _10h ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [Added git ignore file](https://github.com/kushaalshyam/CompilerDesignSem7/commit/0ec81d35f7df4de96ab27c7800a645cfcf556cca) · _16h ago_
+- [`CompilerDesignSem7`](https://github.com/kushaalshyam/CompilerDesignSem7) · [uploading assignments 1 to 9](https://github.com/kushaalshyam/CompilerDesignSem7/commit/8783202deff1615eb861cfc48ffa3ea7e6ca810c) · _16h ago_
 <!--COMMITS:END-->
 
 ## 📊 GitHub stats
