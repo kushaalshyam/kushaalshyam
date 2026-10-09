@@ -82,7 +82,7 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _12h ago_
+- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _19h ago_
 - [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _1d ago_
 - [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [ran 2 renders, available in the images folder](https://github.com/kushaalshyam/RayTracer/commit/71d7ff66756b13d4705b5a4562a104e86d575ce2) · _1d ago_
 - [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat/chore: implemented my first render + added CMakeLists.txt build …](https://github.com/kushaalshyam/RayTracer/commit/782aa2b9ad33bc558f32193e945bb6687c62ae64) · _1d ago_
