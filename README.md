@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**396 problems solved on LeetCode** · 🟢 Easy 216 · 🟡 Medium 175 · 🔴 Hard 5
+**398 problems solved on LeetCode** · 🟢 Easy 217 · 🟡 Medium 176 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
@@ -82,8 +82,8 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [added assignment 2 report](https://github.com/kushaalshyam/machine-learning-lab/commit/61906caaaa223a3e41ca8ece84befd716e0c803f) · _8h ago_
-- [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [uploaded remaining ml and dl experiments](https://github.com/kushaalshyam/machine-learning-lab/commit/6fbc6621f935555d619c1d2c37fcbc4335c8021a) · _9h ago_
+- [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [added assignment 2 report](https://github.com/kushaalshyam/machine-learning-lab/commit/61906caaaa223a3e41ca8ece84befd716e0c803f) · _16h ago_
+- [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [uploaded remaining ml and dl experiments](https://github.com/kushaalshyam/machine-learning-lab/commit/6fbc6621f935555d619c1d2c37fcbc4335c8021a) · _16h ago_
 - [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _3d ago_
 - [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _4d ago_
 - [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [ran 2 renders, available in the images folder](https://github.com/kushaalshyam/RayTracer/commit/71d7ff66756b13d4705b5a4562a104e86d575ce2) · _4d ago_
