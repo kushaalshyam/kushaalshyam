@@ -82,7 +82,7 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [implemented db and flyway](https://github.com/kushaalshyam/ShortURL/commit/bd996e9bf855c2f2fc5936d14e2fc7e09a4324a5) · _4d ago_
+- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [implemented db and flyway](https://github.com/kushaalshyam/ShortURL/commit/bd996e9bf855c2f2fc5936d14e2fc7e09a4324a5) · _5d ago_
 - [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [added assignment 2 report](https://github.com/kushaalshyam/machine-learning-lab/commit/61906caaaa223a3e41ca8ece84befd716e0c803f) · _9d ago_
 - [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [uploaded remaining ml and dl experiments](https://github.com/kushaalshyam/machine-learning-lab/commit/6fbc6621f935555d619c1d2c37fcbc4335c8021a) · _9d ago_
 - [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _12d ago_
