@@ -82,11 +82,11 @@ I practice data structures and algorithms regularly.
 ## ⚡ Latest commits
 
 <!--COMMITS:START-->
+- [`Quest1`](https://github.com/kushaalshyam/Quest1) · [Refactor into FastAPI backend and React frontend](https://github.com/kushaalshyam/Quest1/commit/15b72ffe77ad73f36ad5b3e4a3058e10272543ef) · _1h ago_
 - [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [implemented db and flyway](https://github.com/kushaalshyam/ShortURL/commit/bd996e9bf855c2f2fc5936d14e2fc7e09a4324a5) · _9d ago_
 - [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [added assignment 2 report](https://github.com/kushaalshyam/machine-learning-lab/commit/61906caaaa223a3e41ca8ece84befd716e0c803f) · _14d ago_
 - [`machine-learning-lab`](https://github.com/kushaalshyam/machine-learning-lab) · [uploaded remaining ml and dl experiments](https://github.com/kushaalshyam/machine-learning-lab/commit/6fbc6621f935555d619c1d2c37fcbc4335c8021a) · _14d ago_
-- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _16d ago_
-- [`RayTracer`](https://github.com/kushaalshyam/RayTracer) · [feat: added a progress indicator of render + added the file of my thi…](https://github.com/kushaalshyam/RayTracer/commit/7ff3019df14369f67266df4af74981908b40ebd8) · _17d ago_
+- [`ShortURL`](https://github.com/kushaalshyam/ShortURL) · [created an initial docker-compose file for the url shortener, added r…](https://github.com/kushaalshyam/ShortURL/commit/6d9064c18c712d3dc55b916510b3d3f9f077def9) · _17d ago_
 <!--COMMITS:END-->
 
 ## 📊 GitHub stats
