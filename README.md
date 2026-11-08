@@ -70,7 +70,7 @@ Sole developer of an AI presentation generator. Built multi-agent LangChain/Lang
 I practice data structures and algorithms regularly.
 
 <!--LEETCODE:START-->
-**412 problems solved on LeetCode** · 🟢 Easy 221 · 🟡 Medium 186 · 🔴 Hard 5
+**414 problems solved on LeetCode** · 🟢 Easy 221 · 🟡 Medium 188 · 🔴 Hard 5
 <!--LEETCODE:END-->
 
 <p align="center">
